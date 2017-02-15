@@ -8,3 +8,19 @@
 ###Api documentation
 
 Generated with [Sami: an API documentation generator](https://github.com/FriendsOfPHP/Sami)
+
+
+###How it work
+
+clone this repo and run 
+
+```
+composer install
+````
+
+after, run this to generate the doc
+
+```
+$ php vendor/sami/sami/sami.php config.php
+```
+
