@@ -12,13 +12,13 @@ Generated with [Sami: an API documentation generator](https://github.com/Friends
 
 ###How it work
 
-clone this repo and run 
+Clone this repo and install dependencies
 
 ```
 composer install
 ````
 
-after, run this to generate the doc
+Run this to generate the doc
 
 ```
 $ php vendor/sami/sami/sami.php config.php
