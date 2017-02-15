@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+		"peakphp/framework": "2.*",
+        "sami/sami": "3.0.*"
+    }
+}
