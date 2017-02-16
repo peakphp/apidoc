@@ -21,6 +21,6 @@ composer install
 Run this to generate the doc
 
 ```
-$ php vendor/sami/sami/sami.php config.php
+$ php vendor/sami/sami/sami.php update config.php
 ```
 
