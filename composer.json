@@ -1,6 +1,6 @@
 {
     "require-dev": {
-        "peakphp/framework": "@dev",
-        "sami/sami": "3.0.*"
+        "peak/framework": "@dev",
+        "sami/sami": "^4.0"
     }
 }

@@ -1,5 +1,5 @@
 # Folders to ignore
-/node_modules
+/.idea
 /_test
 /_temp
 /_backup
